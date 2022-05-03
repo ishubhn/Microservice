@@ -1,0 +1,5 @@
+package com.test.microservice.currencyexchangeservice;
+
+public interface CurrencyExchangeRepository extends JPARepository<CurrencyExchange, Long> {
+
+}
