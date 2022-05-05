@@ -1,5 +1,0 @@
-package com.test.microservice.currencyexchangeservice;
-
-public class CurrencyExchangeRepository {
-
-}
