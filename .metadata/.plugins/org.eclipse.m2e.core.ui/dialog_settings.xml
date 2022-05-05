@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\841797\Downloads\workspace\api-gateway\"/>
 			<item value="C:\Users\841797\Downloads\workspace\naming-server"/>
 			<item value="C:\Users\841797\Downloads\workspace\"/>
 			<item value="C:\Users\841797\Downloads\workspace\currency-conversion-service"/>
