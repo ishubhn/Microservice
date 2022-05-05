@@ -17,6 +17,7 @@ public class CurrencyConversionController {
 	@Autowired
 	CurrencyExchangeProxy proxy;
 	
+	/*
 	@GetMapping("/currency-conversion/from/{from}/to/{to}/quantity/{quantity}")
 	public CurrencyConversion calculateCurrencyConversion(
 			@PathVariable String from, 
@@ -33,6 +34,7 @@ public class CurrencyConversionController {
 //		return new CurrencyConversion(1001L, from, to, quantity, BigDecimal.ONE, BigDecimal.ONE, "8100");
 		return new CurrencyConversion(currencyConversion.getId(), from, to, quantity, currencyConversion.getConversionMultiple(), quantity.multiply(currencyConversion.getConversionMultiple()), currencyConversion.getEnvironment());
 	}
+	*/
 	
 	// FEIGN implementation
 	@GetMapping("/currency-conversion-feign/from/{from}/to/{to}/quantity/{quantity}")

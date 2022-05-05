@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\841797\Downloads\workspace\naming-server"/>
+			<item value="C:\Users\841797\Downloads\workspace\"/>
 			<item value="C:\Users\841797\Downloads\workspace\currency-conversion-service"/>
 			<item value="C:\Users\841797\Downloads\workspace\spring-cloud-config-server"/>
 			<item value="C:\Users\841797\Downloads\workspace\currency-exchange-service"/>
@@ -17,6 +19,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
